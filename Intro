@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome!</title>
+  <style>
+    body {
+      background: #222;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      display: flex;
+      height: 100vh;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.5em;
+      color: #00ffd0;
+      text-shadow: 0 2px 12px #006060;
+    }
+    p {
+      font-size: 1.4em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi, my name is WeatheredCoppr! im still in school btw everyone</h1>
+  <p>Welcome to my site. Dont expect updates</p>
+</body>
+</html>
